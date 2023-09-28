@@ -44,7 +44,7 @@ I'm based in Moscow
 
 
 <p>
-  <a href="https://konst1984.github.io/portfolio_app/" target="_blank" rel="noreferrer">Potfolio John Doe</a>
+  <a href="https://konst1984.github.io/portfolio_app/" target="_blank" rel="noreferrer">Portfolio John Doe</a>
   <a href="https://github.com/konst1984/portfolio_app" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
