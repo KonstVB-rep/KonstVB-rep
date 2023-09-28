@@ -12,71 +12,71 @@ I'm based in Moscow
 ### Projects
 
 <p>
- <a href="https://custom-amazon.vercel.app/" target="_blank" rel="noreferrer">Amazone</a>
+ <a href="https://custom-amazon.vercel.app/" target="_blank" rel="noreferrer" title="demo">Amazone</a>
   <a href="https://github.com/konst1984/my_amazone" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/movix/" target="_blank" rel="noreferrer">Movies App 2.0(via VPN)</a> 
+  <a href="https://konst1984.github.io/movix/" target="_blank" rel="noreferrer" title="demo">Movies App 2.0(via VPN)</a> 
   <a href="https://github.com/konst1984/movix" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/clothing_store/" target="_blank" rel="noreferrer">Clothing store</a>
+  <a href="https://konst1984.github.io/clothing_store/" target="_blank" rel="noreferrer" title="demo">Clothing store</a>
   <a href="https://github.com/konst1984/clothing_store" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/goods_store/" target="_blank" rel="noreferrer">Goods Store</a>
+  <a href="https://konst1984.github.io/goods_store/" target="_blank" rel="noreferrer" title="demo">Goods Store</a>
   <a href="https://github.com/konst1984/goods_store" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/games_store/" target="_blank" rel="noreferrer">Games Store</a>
+  <a href="https://konst1984.github.io/games_store/" target="_blank" rel="noreferrer" title="demo">Games Store</a>
   <a href="https://github.com/konst1984/games_store" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 
 <p>
-  <a href="https://konst1984.github.io/login" target="_blank" rel="noreferrer">GitHub user search</a>
+  <a href="https://konst1984.github.io/login" target="_blank" rel="noreferrer" title="demo">GitHub user search</a>
   <a href="https://github.com/konst1984/user_search" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 
 <p>
-  <a href="https://konst1984.github.io/portfolio_app/" target="_blank" rel="noreferrer">Portfolio John Doe</a>
+  <a href="https://konst1984.github.io/portfolio_app/" target="_blank" rel="noreferrer" title="demo">Portfolio John Doe</a>
   <a href="https://github.com/konst1984/portfolio_app" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 
 <p>
-  <a href="https://konst1984.github.io/pizzas/" target="_blank" rel="noreferrer">Pizza's store</a>
+  <a href="https://konst1984.github.io/pizzas/" target="_blank" rel="noreferrer" title="demo">Pizza's store</a>
   <a href="https://github.com/konst1984/pizzas" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 
 <p>
-  <a href="https://aviasales-eaqif1p5t-konst1984.vercel.app/" target="_blank" rel="noreferrer">Aviasales</a>
+  <a href="https://aviasales-eaqif1p5t-konst1984.vercel.app/" target="_blank" rel="noreferrer" title="demo">Aviasales</a>
   <a href="https://github.com/konst1984/Aviasales" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/react-star-wars/" target="_blank" rel="noreferrer">Star wars</a>
+  <a href="https://konst1984.github.io/react-star-wars/" target="_blank" rel="noreferrer" title="demo">Star wars</a>
   <a href="https://github.com/konst1984/react-star-wars" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/foods-react/" target="_blank" rel="noreferrer">Food recipes</a>
+  <a href="https://konst1984.github.io/foods-react/" target="_blank" rel="noreferrer" title="demo">Food recipes</a>
   <a href="https://github.com/konst1984/foods-react" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/movie_app/" target="_blank" rel="noreferrer">Movies app</a>
+  <a href="https://konst1984.github.io/movie_app/" target="_blank" rel="noreferrer" title="demo">Movies app</a>
   <a href="https://github.com/konst1984/search_movie" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 <p>
-  <a href="https://movie-p918joi1f-konst1984.vercel.app/" target="_blank" rel="noreferrer">Search movie(via VPN)</a>
+  <a href="https://movie-p918joi1f-konst1984.vercel.app/" target="_blank" rel="noreferrer" title="demo">Search movie(via VPN)</a>
   <a href="https://github.com/konst1984/search_movie" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
