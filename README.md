@@ -69,11 +69,6 @@
 </p>
 
 <p>
-  <a href="https://konst1984.github.io/movie_app/" target="_blank" rel="noreferrer" title="demo">Movies app</a>
-  <a href="https://github.com/konst1984/search_movie" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
-</p>
-
-<p>
   <a href="https://movie-p918joi1f-konst1984.vercel.app/" target="_blank" rel="noreferrer" title="demo">Search movie(via VPN)</a>
   <a href="https://github.com/konst1984/search_movie" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
