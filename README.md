@@ -18,7 +18,7 @@
 
 
 
-### Projects
+### Projects(react, next)
 
 <p>
  <a href="https://custom-amazon.vercel.app/" target="_blank" rel="noreferrer" title="demo">Amazone</a>
@@ -82,6 +82,18 @@
 <p>
   <a href="https://movie-p918joi1f-konst1984.vercel.app/" target="_blank" rel="noreferrer" title="demo">Search movie(via VPN)</a>
   <a href="https://github.com/konst1984/search_movie" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
+</p>
+
+### Landings
+
+<p>
+<a href="https://shop-js-pug-css.vercel.app/index.html" target="_blank" rel="noreferrer" title="demo">Shop woman clothes(JS, PUG)</a>
+<a href="https://github.com/konst1984/shop_js_pug_css" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
+</p>
+
+<p>
+<a href="https://konst1984.github.io/landing_rifle-scope/" target="_blank" rel="noreferrer" title="demo">Rifle scope landing(HTML, CSS)</a>
+<a href="https://github.com/konst1984/landing_rifle-scope" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
 
