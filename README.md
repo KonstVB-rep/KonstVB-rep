@@ -21,7 +21,7 @@
 ### Projects(react, next)
 
 <p>
- <a href="https://photo-gallery-rose.vercel.app/" target="_blank" rel="noreferrer" title="demo">Amazone</a>
+ <a href="https://photo-gallery-rose.vercel.app/" target="_blank" rel="noreferrer" title="demo">Images gallery</a>
   <a href="https://github.com/konst1984/photo_gallery" target="_blank" rel="noreferrer" title="repository"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /> </picture>
 </p>
 
