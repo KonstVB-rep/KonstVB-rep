@@ -44,7 +44,7 @@
       </a>
     </li>
     <li>
-      <a href="[https://konst1984.github.io/](https://konstvb-rep.github.io/)clothing_store/" target="_blank" rel="noreferrer" title="demo">Clothing store</a>
+      <a href="https://konstvb-rep.github.io/clothing_store/" target="_blank" rel="noreferrer" title="demo">Clothing store</a>
       <a href="https://github.com/konst1984/clothing_store" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
