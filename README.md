@@ -34,8 +34,8 @@
 <details><summary><b>React</b></summary>  
   <ul>
     <li>
-      <a href="https://konst1984.github.io/movix/" target="_blank" rel="noreferrer" title="demo">Movies App 2.0(via VPN)</a> 
-      <a href="https://github.com/konst1984/movix" target="_blank" rel="noreferrer" title="repository"> 
+      <a href="https://konstvb-rep.github.io/movix/" target="_blank" rel="noreferrer" title="demo">Movies App 2.0(via VPN)</a> 
+      <a href="https://github.com/KonstVB-rep/movix" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
@@ -44,7 +44,7 @@
       </a>
     </li>
     <li>
-      <a href="https://konst1984.github.io/clothing_store/" target="_blank" rel="noreferrer" title="demo">Clothing store</a>
+      <a href="[https://konst1984.github.io/](https://konstvb-rep.github.io/)clothing_store/" target="_blank" rel="noreferrer" title="demo">Clothing store</a>
       <a href="https://github.com/konst1984/clothing_store" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -54,7 +54,7 @@
       </a>
     </li>
     <li>
-      <a href="https://konst1984.github.io/goods_store/" target="_blank" rel="noreferrer" title="demo">Goods Store</a>
+      <a href="https://konstvb-rep.github.io/goods_store/" target="_blank" rel="noreferrer" title="demo">Goods Store</a>
       <a href="https://github.com/konst1984/goods_store" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -64,7 +64,7 @@
       </a>
     </li>
     <li>
-      <a href="https://konst1984.github.io/games_store/" target="_blank" rel="noreferrer" title="demo">Games Store</a>
+      <a href="https://konstvb-rep.github.io/games_store/" target="_blank" rel="noreferrer" title="demo">Games Store</a>
       <a href="https://github.com/konst1984/games_store" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -74,7 +74,7 @@
       </a>
     </li>
     <li>
-      <a href="https://konst1984.github.io/portfolio_app/" target="_blank" rel="noreferrer" title="demo">Portfolio John Doe</a>
+      <a href="https://konstvb-rep.github.io/portfolio_app/" target="_blank" rel="noreferrer" title="demo">Portfolio John Doe</a>
       <a href="https://github.com/konst1984/portfolio_app" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -84,7 +84,7 @@
       </a>
     </li>
     <li>
-      <a href="https://konst1984.github.io/foods-react/" target="_blank" rel="noreferrer" title="demo">Food recipes</a>
+      <a href="https://konstvb-rep.github.io/foods-react/" target="_blank" rel="noreferrer" title="demo">Food recipes</a>
       <a href="https://github.com/konst1984/foods-react" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -113,7 +113,7 @@
       </a>
     </li>
     <li>
-      <a href="https://konst1984.github.io/landing_rifle-scope/" target="_blank" rel="noreferrer" title="demo">Rifle scope landing(HTML, CSS)</a>
+      <a href="https://konstvb-rep.github.io/landing_rifle-scope/" target="_blank" rel="noreferrer" title="demo">Rifle scope landing(HTML, CSS)</a>
       <a href="https://github.com/konst1984/landing_rifle-scope" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -128,7 +128,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/konst1984" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></li>
+<p align="left"> <a href="https://www.github.com/KonstVB-rep" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></li>
 
 
 ### Badges
