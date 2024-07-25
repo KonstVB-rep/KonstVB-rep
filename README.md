@@ -54,16 +54,6 @@
       </a>
     </li>
     <li>
-      <a href="https://konstvb-rep.github.io/goods_store/" target="_blank" rel="noreferrer" title="demo">Goods Store</a>
-      <a href="https://github.com/konst1984/goods_store" target="_blank" rel="noreferrer" title="repository"> 
-        <picture> 
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" />
-        </picture>
-      </a>
-    </li>
-    <li>
       <a href="https://konstvb-rep.github.io/games_store/" target="_blank" rel="noreferrer" title="demo">Games Store</a>
       <a href="https://github.com/konst1984/games_store" target="_blank" rel="noreferrer" title="repository"> 
         <picture> 
