@@ -125,6 +125,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/konst1984"><img src="https://github-readme-stats.vercel.app/api?username=konst1984&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="konst1984's GitHub stats" /></a>
+<a href="http://www.github.com/KonstVB-rep"><img src="https://github-readme-stats.vercel.app/api?username=KonstVB-rep&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="KonstVB-rep's GitHub stats" /></a>
 
-<a href="https://github.com/konst1984" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konst1984&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KonstVB-rep" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstVB-rep&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
